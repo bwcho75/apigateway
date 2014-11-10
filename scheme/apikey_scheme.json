@@ -1,0 +1,11 @@
+{
+    "apikey":"hexastring",
+    "type":"server key|client key|web key",
+    "userId":"terry",
+    "tenantId":"019281",
+    "serviceId":["blog","myapp"],
+    "role":["user","admin"],
+    "created":"2014-10-20 20:18:20",
+    "expire":"2014-10-21 20:18:21",
+    "lastupdated":"2014-10-20 22:12:20"
+}
